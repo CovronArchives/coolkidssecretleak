@@ -1,6 +1,6 @@
 yep, its true.
 i did somehow get coolkids leak. website leak. let me explain first, so i was talking to my friend. he was an old friend of coolkid. (which i had zero idea he was) till he brought it up, i got intrquied and so we talked about him being an friend of coolkid and how was it like and what happened till he told me that coolkid had an secret site that went by the name of (coolsecretkiddontcomepls.com) which was an old domain by coolkid, he had an old html code in his computer. that was the code for coolkid. he did joke about being 007n7, but then said that he was joking. i dont know if he actually were to be joking, or that he wasnt joking and ACTUALLY were 007n7, only god and him knows i guess.
-# .
+# 
 heres the html he sent me:
 ```html
 <!DOCTYPE html>
@@ -21,7 +21,7 @@ heres the html he sent me:
     </body>
 </html>
 ```
-# .
+# 
 heres an page i made.
 ```
 https://covronarchives.github.io/CoolSite-/
