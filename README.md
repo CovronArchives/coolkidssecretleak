@@ -26,3 +26,5 @@ heres an page i made.
 ```
 https://covronarchives.github.io/CoolSite-/
 ```
+# non important, or maybe
+what my friend told me, "JOIN COOLKID TODAY" was originally suppose to be "BE APART OF COOLKID!", he also helped with the exploit. that coolkid used. well. kinda. i forgot much of what he said, why? he deleted his messages. he didnt want me to try to leak them or anything.
